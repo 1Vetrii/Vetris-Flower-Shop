@@ -1,8 +1,6 @@
 import React from 'react'
-import NavBar from './components/Navbar'
 import Landimage from './components/Landimage'
 import { Button, Link } from '@nextui-org/react'
-import { NavbarItem } from '@nextui-org/react'
 import Imagetwo from './components/imagetwo'
 const App = () => {
   return (
