@@ -1,7 +1,7 @@
 import React from 'react'
 import Landimage from './components/Landimage'
 import { Button, Link } from '@nextui-org/react'
-import Imagetwo from './components/imagetwo'
+import Imagetwo from './components/Imagetwe'
 const App = () => {
   return (
     <>
