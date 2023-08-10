@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bacg {
+  background-color: #111214;
+}
+
+.bacgt {
+  background-color: #fcece3;
+}
